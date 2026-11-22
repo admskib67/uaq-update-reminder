@@ -2,6 +2,7 @@
 
 Script de bash diseñado para ser autocargado en un .bashrc donde se muestren logos de la UAQ y la facultad de informatica junto a un recordatororio de cuantos días han pasado desde la última actualizacion y de como actualizar un sístema basado en Ubuntu.
 
+![Screenshot script agregado en el bashrc](./.github/Screenshot.png)
 
 ## Instalación
 

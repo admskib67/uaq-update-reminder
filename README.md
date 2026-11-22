@@ -1,6 +1,6 @@
 # uaq-update-reminder
 
-Script de bash diseñado para como recordatororio de cuantos días han pasado desde la última actualizacion en un sístema basado en Ubuntu.
+Script de bash diseñado como recordatororio de cuantos días han pasado desde la última actualizacion en un sístema basado en Ubuntu.
 
 
 ## Instalación
